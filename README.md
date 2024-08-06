@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQFXUMCI_xZ3EQ/article-cover_image-shrink_720_1280/0/1683909809034?e=2147483647&v=beta&t=4fGfWqzZukhw96bqPVg3D7DcGj9QURTHNOlUH_XShXY)
+![MasterHead](https://media.licdn.com/dms/image/D4D12AQFXUMCI_xZ3EQ/article-cover_image-shrink_720_1280/0/1683909809034?e=2147483647&v=beta&t=4fGfWqzZukhw96bqPVg3D7DcGj9QURTHNOlUH_XShXY)
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
